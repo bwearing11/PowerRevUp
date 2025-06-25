@@ -1,4 +1,4 @@
-###PowerRevUp
+### PowerRevUp
 
 PowerRevUp is a program which will take a file(s) and increase the letter revision. 
 To use PowerRevUp, select one or more files in file explorer and select 'PowerRevUp' in the right click menu.
