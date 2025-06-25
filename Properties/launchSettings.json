@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PowerRevUp": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Ben.Wearing\\Desktop\\222222\\1. Misc\\222222-Blahblah-001\\Working\\nonipc rR.txt\"\r\n\"C:\\Users\\Ben.Wearing\\Desktop\\222222\\1. Misc\\222222-Blahblah-001\\Working\\processetc rM.txt\"\r\n\"C:\\Users\\Ben.Wearing\\Desktop\\222222\\1. Misc\\222222-Blahblah-001\\Working\\regedit for context menu rS.txt\""
+    }
+  }
+}
